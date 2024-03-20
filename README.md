@@ -1,5 +1,6 @@
 ## Hi!!
 #### This repo is jihee's Computer Programming course recode!!
+#### friday course am 11:00 - pm 14:00
 
 ## 🗨️ Commit message
 | **type keyword** | content |
